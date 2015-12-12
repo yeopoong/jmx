@@ -1,2 +1,2 @@
-# jmx
-JMX 기본 예제
+# JMX(Java Management Extensions)
+- The interface name must end with MBean.
